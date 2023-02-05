@@ -9,5 +9,5 @@ let f = 2;
 let v = 5;
 let sum1;
 
-sum = v + f;
+sum1 = v + f;
 console.log(sum1);
