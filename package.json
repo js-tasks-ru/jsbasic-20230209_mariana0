@@ -34,5 +34,8 @@
     "karma-jasmine": "^2.0.1",
     "karma-mocha-reporter": "git+https://github.com/javascriptru/karma-mocha-reporter.git",
     "karma-viewport": "^1.0.6"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.2"
   }
 }
